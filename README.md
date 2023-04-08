@@ -3,8 +3,7 @@
 私が作成したプロンプトを公開しています。
 
 ## 最近公開したプロンプト
-![news](./midjourney/ChatGPT2MJ.md 'Generate Prompt for Midjourney by ChatGPT')
-
+[Generate Prompt for Midjourney by ChatGPT](https://github.com/gmoriki/prompt_design/blob/main/midjourney/ChatGPT2MJ.md)
 ## 主に利用しているサービス
 * ChatGPT-4
 * Midjourney
